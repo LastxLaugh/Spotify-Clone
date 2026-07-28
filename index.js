@@ -17,7 +17,7 @@ function formatTime(seconds) {
 
 // CHANGED: get songs from songs.json
 async function getSongs(folder) {
-  let response = await fetch("/songs.json");
+  let response = await fetch("/Songs.json");
   let playlists = await response.json();
 
   return playlists[folder] || [];
