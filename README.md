@@ -4,7 +4,8 @@ A Spotify-inspired music player built with HTML, CSS and JavaScript.
 
 ## 🚀 Live Demo
 
-[🎧 View Live Website](YOUR_VERCEL_LINK_HERE)
+- Live link:=> https://spotify-clone-azure-seven-66.vercel.app/
+
 
 ## ✨ Features
 
@@ -25,4 +26,3 @@ A Spotify-inspired music player built with HTML, CSS and JavaScript.
 - Git & GitHub
 - Vercel
 
-- Live link:=> https://spotify-clone-azure-seven-66.vercel.app/
